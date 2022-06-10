@@ -62,6 +62,22 @@ img {
 html.w-mod-touch * {
   background-attachment: scroll !important;
 }
+
+ul {
+  margin: 0 auto;
+}
+
+footer {
+  margin-top: 10px;
+}
+
+.mb {
+  margin-bottom: 10px;
+}
+
+.mb-15 {
+  margin-bottom: 15px;
+}
 .w-block {
   display: block;
 }
